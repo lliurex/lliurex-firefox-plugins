@@ -1,0 +1,35 @@
+lliurex-firefox-plugins (0.8) xenial; urgency=medium
+
+  * First release to xenial
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 03 Feb 2016 09:14:28 +0100
+
+lliurex-firefox-plugins (0.5) trusty; urgency=high
+
+  * Upgrading for trusty
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Fri, 16 Jan 2015 11:32:48 +0100
+
+lliurex-firefox-plugins (0.4) precise; urgency=high
+
+  * Added link check
+
+ -- David Montalva Furio <montalva_dav@gva.es>  Mon, 30 Sep 2013 09:03:29 +0200
+
+lliurex-firefox-plugins (0.3) precise; urgency=low
+
+  * fixed conflict with lliurex-www 
+
+ -- David Montalva Furio <montalva_dav@gva.es>  Fri, 27 Sep 2013 13:49:19 +0200
+
+lliurex-firefox-plugins (0.2) precise; urgency=high
+
+  * removed unused files
+
+ -- David Montalva Furio <montalva_dav@gva.es>  Tue, 17 Sep 2013 12:15:06 +0200
+
+lliurex-firefox-plugins (0.1) precise; urgency=low
+
+  * Initial release.
+
+ -- David Montalva Furio <montalva_dav@gva.es>  Tue, 17 Sep 2013 11:38:41 +0200

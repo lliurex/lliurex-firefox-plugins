@@ -1,0 +1,19 @@
+#!/bin/sh
+
+set -e
+
+case $1 in
+        configure)
+		if [ ! -L /var/www/srv ];
+		then
+			rm -rf /var/www/srv
+		fi
+               ;;
+        *)
+           echo "[DEBUG] Unknow action ..."
+           ;;
+
+esac
+
+#DEBHELPER#
+
